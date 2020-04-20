@@ -1,0 +1,21 @@
+{
+  "params": {
+    "local_server": "True",
+    "local_uri": "mysql://root:@localhost/codingthunder",
+    "prod_uri": "mysql://root:@localhost/codingthunder",
+    "fb_url": "https://facebook.com/codingthunder",
+    "tw_url": "https://twitter.com/codingthunder",
+    "gh_url": "https://github.com/codingthunder",
+    "blog_name": "Travel Blog",
+    "tag_line": "Programmed by sai",
+    "gmail-user": "dashsai285@gmail.com",
+    "gmail-password": "saisworydash123",
+    "about_text": "Hi am sai.I love to travel.",
+    "no_of_posts": 2,
+    "login_image": "login.svg",
+    "admin_user": "harry",
+    "admin_password": "saiswory",
+    "uploader_location": "c:\\Users\\Polly\\PycharmProjects\\flask\\static"
+  }
+
+}
